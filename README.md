@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Lakshya Purohit</h1>
-<h3 align="center">Software Developer | Data Science Enthusiast | Backend Specialist</h3>
+<h3 align="center">Software Developer | Crafting Code, Solving Real-World Problems with Simple Solutions</h3>
 
 <div align="center">
   <img alt="codingImage" width="100%" max-width="600" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
