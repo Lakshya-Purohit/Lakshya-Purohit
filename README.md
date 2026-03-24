@@ -21,7 +21,6 @@
 
 ### 🔹 About Me
 
-- 💻 Currently a Backend Developer at **LP Cloud Lab**
 - 🌱 Deepening my knowledge in **Data Science** and **Data Structures & Algorithms**
 - 💡 Open to freelance opportunities to collaborate on impactful software projects
 - 📫 Reach me at **lakshya.purohit.2105@gmail.com**
