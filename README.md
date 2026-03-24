@@ -25,6 +25,8 @@
 - 🌱 Deepening my knowledge in **Data Science** and **Data Structures & Algorithms**
 - 💡 Open to freelance opportunities to collaborate on impactful software projects
 - 📫 Reach me at **lakshya.purohit.2105@gmail.com**
+- 👨‍💻 Know more about me at **https://www.lakhsyapurohit.online**
+
 
 ---
 
