@@ -28,7 +28,7 @@ const developer = {
   role: "Software Developer",
   location: "Jaipur, India",
   focus: ["Backend Architecture", "Real-time Systems", "Computer Vision"],
-  currentGig: "Software Developer @ NIICSI (On-site e-Panjiyan)",
+  currentGig: "Software Developer @ NICSI (On-site e-Panjiyan)",
   stats: { experience: "2+ yrs", projects: "10+", perfGains: "up to 70%" },
 };
 ```
@@ -83,7 +83,7 @@ const developer = {
 
 | Period | Role | Company | Highlights |
 |---|---|---|---|
-| Aug 2025 – Present | Software Developer | **NIICSI** (e-Panjiyan) | ASP.NET Core APIs, Postgres tuning (-50% latency), WebRTC/SignalR e-KYC, CI/CD |
+| Aug 2025 – Present | Software Developer | **NICSI** (e-Panjiyan) | ASP.NET Core APIs, Postgres tuning (-50% latency), WebRTC/SignalR e-KYC, CI/CD |
 | Jul 2024 – Jul 2025 | Software Developer | **LP Cloud Lab** | Scalable ASP.NET + DI, +20% perf, SQL Server tuning (-30% API time) |
 | Jun 2023 – Dec 2023 | Full Stack Dev Intern | **NOI Technologies** | ERP modules (Moqui/Java/Groovy), SOA automation, RBAC security |
 | Jun 2022 – Aug 2022 | Image Processing Intern | **DRDO** | OpenCV/NumPy CV pipelines, neural-net object detection |
