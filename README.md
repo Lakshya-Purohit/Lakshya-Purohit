@@ -141,11 +141,7 @@ const developer = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lakshya-Purohit/Lakshya-Purohit/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation eating contributions" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lakshya-Purohit/Lakshya-Purohit/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph" />
-</div>
 
 
 ---
